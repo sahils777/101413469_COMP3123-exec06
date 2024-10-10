@@ -1,5 +1,5 @@
 ### LAbex06 ###
-## Github Link: https://github.com/sahils777/101413469_COMP3123-exec06 ##
+## Github Link: https://github.com/sahils777/101413469_COMP3123-exec06.git ##
 # Student id: 101413469 #
 # Week06 Exercise - Notes Application
 
